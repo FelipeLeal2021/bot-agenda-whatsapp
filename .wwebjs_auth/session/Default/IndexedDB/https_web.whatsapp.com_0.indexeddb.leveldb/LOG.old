@@ -1,0 +1,63 @@
+2025/05/26-21:48:24.600 a40 Reusing MANIFEST C:\Users\felip\OneDrive\Área de Trabalho\bot-agenda\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/05/26-21:48:24.602 a40 Recovering log #1309
+2025/05/26-21:48:24.652 a40 Reusing old log C:\Users\felip\OneDrive\Área de Trabalho\bot-agenda\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/001309.log 
+2025/05/26-21:48:28.063 7fdc Level-0 table #1336: started
+2025/05/26-21:48:28.077 7fdc Level-0 table #1336: 300154 bytes OK
+2025/05/26-21:48:28.079 7fdc Delete type=0 #1309
+2025/05/26-21:48:28.080 7fdc Manual compaction at level-0 from '\x00)\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00*\x00\x00\x00' @ 0 : 0; will stop at '\x00)\x00\x00\x05' @ 3361307 : 1
+2025/05/26-21:48:28.080 7fdc Compacting 1@0 + 0@1 files
+2025/05/26-21:48:28.095 7fdc Generated table #1337@0: 5572 keys, 116067 bytes
+2025/05/26-21:48:28.100 7fdc Generated table #1338@0: 190 keys, 9028 bytes
+2025/05/26-21:48:28.100 7fdc Compacted 1@0 + 0@1 files => 125095 bytes
+2025/05/26-21:48:28.102 7fdc compacted to: files[ 0 2 32 0 0 0 0 ]
+2025/05/26-21:48:28.102 7fdc Delete type=2 #1336
+2025/05/26-21:48:28.103 7fdc Manual compaction at level-0 from '\x00)\x00\x00\x05' @ 3361307 : 1 .. '\x00*\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/05/26-21:48:29.957 7bb4 Compacting 1@1 + 10@2 files
+2025/05/26-21:48:30.117 7bb4 Generated table #1339@1: 31026 keys, 2263172 bytes
+2025/05/26-21:48:30.214 7bb4 Generated table #1340@1: 27096 keys, 2270581 bytes
+2025/05/26-21:48:30.293 7bb4 Generated table #1341@1: 27288 keys, 2252491 bytes
+2025/05/26-21:48:30.369 7bb4 Generated table #1342@1: 19716 keys, 2183730 bytes
+2025/05/26-21:48:30.423 7bb4 Generated table #1343@1: 10687 keys, 2133648 bytes
+2025/05/26-21:48:30.516 7bb4 Generated table #1344@1: 79861 keys, 2224321 bytes
+2025/05/26-21:48:30.633 7bb4 Generated table #1345@1: 99099 keys, 2247700 bytes
+2025/05/26-21:48:30.765 7bb4 Generated table #1346@1: 99823 keys, 2249151 bytes
+2025/05/26-21:48:30.855 7bb4 Generated table #1347@1: 99606 keys, 2248257 bytes
+2025/05/26-21:48:30.952 7bb4 Generated table #1348@1: 84205 keys, 1918905 bytes
+2025/05/26-21:48:30.953 7bb4 Compacted 1@1 + 10@2 files => 21991956 bytes
+2025/05/26-21:48:30.954 7bb4 compacted to: files[ 0 1 32 0 0 0 0 ]
+2025/05/26-21:48:30.954 7bb4 Delete type=2 #1313
+2025/05/26-21:48:30.954 7bb4 Delete type=2 #1314
+2025/05/26-21:48:30.955 7bb4 Delete type=2 #1315
+2025/05/26-21:48:30.955 7bb4 Delete type=2 #1316
+2025/05/26-21:48:30.955 7bb4 Delete type=2 #1317
+2025/05/26-21:48:30.955 7bb4 Delete type=2 #1318
+2025/05/26-21:48:30.955 7bb4 Delete type=2 #1319
+2025/05/26-21:48:30.955 7bb4 Delete type=2 #1320
+2025/05/26-21:48:30.955 7bb4 Delete type=2 #1321
+2025/05/26-21:48:30.955 7bb4 Delete type=2 #1322
+2025/05/26-21:48:30.955 7bb4 Delete type=2 #1338
+2025/05/26-21:48:31.267 7fdc Compacting 1@1 + 10@2 files
+2025/05/26-21:48:31.336 7fdc Generated table #1349@1: 59020 keys, 2224102 bytes
+2025/05/26-21:48:31.387 7fdc Generated table #1350@1: 16012 keys, 2229822 bytes
+2025/05/26-21:48:31.482 7fdc Generated table #1351@1: 25643 keys, 2262675 bytes
+2025/05/26-21:48:31.552 7fdc Generated table #1352@1: 19320 keys, 2180885 bytes
+2025/05/26-21:48:31.600 7fdc Generated table #1353@1: 2776 keys, 2160527 bytes
+2025/05/26-21:48:31.639 7fdc Generated table #1354@1: 2717 keys, 2155739 bytes
+2025/05/26-21:48:31.685 7fdc Generated table #1355@1: 3075 keys, 2159299 bytes
+2025/05/26-21:48:31.720 7fdc Generated table #1356@1: 2697 keys, 2158661 bytes
+2025/05/26-21:48:31.767 7fdc Generated table #1357@1: 3482 keys, 2157381 bytes
+2025/05/26-21:48:31.809 7fdc Generated table #1358@1: 2842 keys, 2152065 bytes
+2025/05/26-21:48:31.819 7fdc Generated table #1359@1: 43 keys, 35240 bytes
+2025/05/26-21:48:31.819 7fdc Compacted 1@1 + 10@2 files => 21876396 bytes
+2025/05/26-21:48:31.822 7fdc compacted to: files[ 0 0 33 0 0 0 0 ]
+2025/05/26-21:48:31.823 7fdc Delete type=2 #1323
+2025/05/26-21:48:31.823 7fdc Delete type=2 #1324
+2025/05/26-21:48:31.823 7fdc Delete type=2 #1325
+2025/05/26-21:48:31.823 7fdc Delete type=2 #1326
+2025/05/26-21:48:31.823 7fdc Delete type=2 #1327
+2025/05/26-21:48:31.823 7fdc Delete type=2 #1328
+2025/05/26-21:48:31.823 7fdc Delete type=2 #1329
+2025/05/26-21:48:31.823 7fdc Delete type=2 #1330
+2025/05/26-21:48:31.823 7fdc Delete type=2 #1331
+2025/05/26-21:48:31.823 7fdc Delete type=2 #1332
+2025/05/26-21:48:31.823 7fdc Delete type=2 #1337
